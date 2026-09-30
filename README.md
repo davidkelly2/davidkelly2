@@ -1,16 +1,13 @@
-## Hi there 👋
+# Initial Repo for Data Science Lecture 1
 
-<!--
-**davidkelly2/davidkelly2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is for a Data Science module as part of the MSc in Statistics at Imperial. 
 
-Here are some ideas to get you started:
+Here is a list of modules that are part of the course:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Probability
+2. Statistical Inference
+3. Data Science
+4. Computational Statistics and Machine 
+5. Applied Statistics
+
+[This is the link to the course outline online](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
