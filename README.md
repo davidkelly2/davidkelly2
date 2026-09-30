@@ -1,4 +1,4 @@
-# Initial Repo for Data Science Lecture 1
+# Initial Repo for DATA SCIENCE Lecture 1
 
 This is for a Data Science module as part of the MSc in Statistics at Imperial. 
 
