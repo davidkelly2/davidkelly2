@@ -10,4 +10,4 @@ Here is a list of modules that are part of the course:
 4. Computational Statistics and Machine 
 5. Applied Statistics
 
-[This is the link to the course outline online](https://www.imperial.ac.uk/study/courses/postgraduate-taught/stats/)
+[This is the link to the course outline online](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
